@@ -1,0 +1,13 @@
+h1{
+    color: yellowgreen;
+    height: 10px;
+    width: 5px;
+}
+
+table{
+    border: 2px;
+    position: fixed;
+}
+th{
+    background-color: crimson;
+}
