@@ -1,0 +1,34 @@
+/* Star Selector */
+
+h1{
+    color: aqua;
+}
+
+
+/* Desending Selectors */
+
+ul li a{
+    color: cyan;
+}
+
+
+/* Adjcent Selectors */
+a+ul{
+    color: red;
+}
+
+
+/* Atrtribute Selectros */
+
+a[href]{
+    color: red;
+    background-color: aliceblue;
+}
+
+
+
+a[href="https://web.whatsapp.com/"]{
+    color: rgb(18, 15, 200);
+    background-color: aliceblue;
+}
+
