@@ -1,0 +1,124 @@
+h1{
+    color: brown;
+    background-color: burlywood;
+    text-align: center;
+    border: 2px;
+    width: 40%;
+    height: 40px;
+    margin: auto;
+    margin-bottom: 55px;
+}
+
+#one{
+    
+    width: 3cm;
+    background-color: violet;
+    height: 300px;
+    border: 4px black solid;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+}
+
+#Two{
+    
+    width: 3cm;
+    background-color: indigo;
+    height: 300px;
+    border: 4px black solid;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+
+
+
+}
+
+#Three{
+    
+    width: 3cm;
+    background-color: blue;
+    height: 300px;
+    border: 4px black solid;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+
+
+
+}
+
+#Four{
+    
+    width: 3cm;
+    background-color:green;
+    height: 300px;
+    border: 4px black solid;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+
+
+
+}
+
+
+#Five{
+    
+    width: 3cm;
+    background-color: yellow;
+    height: 300px;
+    border: 4px black solid;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+
+
+
+}
+
+#Six{
+    
+    width: 3cm;
+    background-color: orangered;
+    height: 300px;
+    border: 4px black solid;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+
+
+
+}
+
+#Seven{
+    
+    width: 3cm;
+    background-color: rgb(205, 9, 9);
+    height: 300px;
+    border: 4px black solid;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+
+
+
+}
+
+table{
+    margin-left: 80px;
+}
+
+
+h2{
+    color: purple;
+    background-color: yellow;
+    text-align: center;
+    font-size: xx-large;
+    border: 2px springgreen solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    
+}
+
+
