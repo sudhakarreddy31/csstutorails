@@ -1,0 +1,43 @@
+/* Element Selectors */
+
+h1{
+    color: yellowgreen;
+    text-align: center;
+    background: wheat;
+    border: black 2px solid;
+}
+
+
+/* Id Selectors */
+
+#p{
+    color: chocolate;
+    border-left: 5px solid paleturquoise;
+}
+
+#tab{
+    border: 2px solid silver;
+}
+
+#the{
+    background-color: tomato;
+}
+
+
+/* Class Selectros */
+
+
+.h1{
+    text-align: center;
+    background-color: plum;
+}
+
+
+.bo{
+    background-color: peachpuff;
+    background-repeat: cover;
+}
+
+
+
+
